@@ -10,7 +10,7 @@
 body{
     background: var(--preta);
 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif, Times, serif;
     color: #FFF;
 }
 header .container{
@@ -50,7 +50,7 @@ header nav a:hover{
     margin-bottom: 40px;
 }
 .title{
-    margin-top: 30%;
+    margin-top: 20%;
     font-family:'Trebuchet MS', Arial, sans-serif;
     font-size: 40px;
     
@@ -68,4 +68,22 @@ header nav a:hover{
 .botao:hover{
     background-color:white;
     color:black;
+}
+.botao i {
+    margin-right: 5px;
+}
+.container{
+    margin-left: 20px;
+
+}
+.flm-main .container{
+    width: 70%;
+}
+.box-flm{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+.crl{
+    margin-top: 5px;
 }
