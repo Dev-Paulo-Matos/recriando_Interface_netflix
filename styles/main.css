@@ -6,6 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 body{
     background: var(--preta);
@@ -87,3 +88,15 @@ header nav a:hover{
 .crl{
     margin-top: 5px;
 }
+.assistir-agora{
+    display: none;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top:0;
+    z-index: 4; 
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.775);
+
+}  
