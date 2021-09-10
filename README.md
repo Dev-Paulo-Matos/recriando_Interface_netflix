@@ -5,4 +5,4 @@
 
 ## Codando com o Felipe Aguiar
 Projeto disponvivel na DIO - Digital innovation One.
-Disponivel em https://dev-paulo-matos.github.io/recriando_netflix/
+Disponivel em https://github.com/Dev-Paulo-Matos/recriando_Interface_netflix
